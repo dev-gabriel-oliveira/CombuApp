@@ -1,4 +1,4 @@
-# combu_app
+# Combu_App
 
 A new Flutter project.
 
